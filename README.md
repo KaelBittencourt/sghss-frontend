@@ -171,6 +171,8 @@ npm run test:a11y
 **Projeto Multidisciplinar UNINTER**  
 Ênfase: Desenvolvimento Front-end  
 Professor: Prof. Winston Sen Lun Fung, Me.
+Nome Aluno: Michael de Favere Bitencourt
+RU: 4555051
 
 ## 📄 Licença
 
