@@ -4,6 +4,11 @@
 
 O SGHSS é um sistema web moderno desenvolvido para a gestão integrada de hospitais, clínicas e serviços de saúde. Este projeto foi desenvolvido como parte do Projeto Multidisciplinar da UNINTER, com ênfase em desenvolvimento Front-end.
 
+## Deploy do projeto na Vercel
+
+LINK: https://sghss-frontend-git-main-kael-bittencourts-projects.vercel.app/dashboard
+
+
 ## 🚀 Tecnologias Utilizadas
 
 - **React 18** - Biblioteca JavaScript para interfaces de usuário
@@ -168,11 +173,12 @@ npm run test:a11y
 
 ## 👨‍💻 Autor
 
+Nome: Michael de Favere Bitencourt.
+RU: 4555051
+
 **Projeto Multidisciplinar UNINTER**  
 Ênfase: Desenvolvimento Front-end  
 Professor: Prof. Winston Sen Lun Fung, Me.
-Nome Aluno: Michael de Favere Bitencourt
-RU: 4555051
 
 ## 📄 Licença
 
