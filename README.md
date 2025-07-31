@@ -6,7 +6,7 @@ O SGHSS é um sistema web moderno desenvolvido para a gestão integrada de hospi
 
 ## Deploy do projeto na Vercel
 
-LINK: https://sghss-frontend-git-main-kael-bittencourts-projects.vercel.app/dashboard
+LINK: https://sghss-frontend-psi.vercel.app/
 
 
 ## 🚀 Tecnologias Utilizadas
